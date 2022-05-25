@@ -6,5 +6,5 @@ Landing Page HTML CSS And JS
 Code ini menggunakan lisensi GNU V3.
 =================================
 
-Gunakan kode ini gratis untuk digunakan namun anda harus memberikan tautan website kami sebagai tanda apresiasi karya-karya kami.
+Kode ini gratis untuk digunakan namun anda harus memberikan tautan website kami sebagai tanda apresiasi karya-karya kami.
 ---------------------------------------------------------------------------------------------------------------------------------
