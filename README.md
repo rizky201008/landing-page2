@@ -6,7 +6,7 @@ Landing Page HTML CSS And JS
 Code ini menggunakan lisensi MIT.
 =================================
 
-Gunakan kode ini gratis untuk digunakan namun anda harus memberikan tautan website kami sebagai tanda apresiasi karya-karya kami.
+Kode ini gratis untuk digunakan namun anda harus memberikan tautan website kami sebagai tanda apresiasi karya-karya kami.
 ---------------------------------------------------------------------------------------------------------------------------------
 
 Letakkan tautan https://vixiloc.my.id pada website anda
